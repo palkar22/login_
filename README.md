@@ -1,4 +1,6 @@
 Python Flask
+
+
 https://flask.palletsprojects.com/en/2.2.x/installation/
 Create an environment
 C:\flask_dev>py -3 -m venv venv
@@ -20,6 +22,8 @@ C:\flask_dev\flaskreact\app.py
 C:\flask_dev\flaskreact\app.py
 run (venv) C:\flask_dev\flaskreact>flask run
 React JS
+
+
 https://create-react-app.dev/
 Create Project
 C:\react-js>npx create-react-app myreactdev
